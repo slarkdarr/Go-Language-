@@ -1,3 +1,4 @@
+// Program yang mengandung fungsi yang memanggil dirinya sendiri
 package main
 
 import "fmt"
