@@ -32,4 +32,7 @@ Bahasa Go dapat digunakan dengan meng-*install* ekstensi dari bahasa Go tersebut
 Untuk menjalankan program dengan bahasa Go, digunakan perintah ```go run "nama-file.go"```
 
 ### Example
-Contoh dari program menggunakan bahasa Go dapat dilihat [di sini](example.go)
+Contoh dari program menggunakan bahasa Go dapat dilihat di sini:
+- [Hello World](helloworld.go)
+- [Conditional](conditional.go)
+- [Loop](loop.go)
