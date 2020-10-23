@@ -33,8 +33,8 @@ Untuk menjalankan program dengan bahasa Go, digunakan perintah ```go run "nama-f
 
 ### Example
 Contoh dari program menggunakan bahasa Go dapat dilihat di sini:
-- [Hello World](helloworld.go)
-- [Conditional](conditional.go)
-- [Loop](loop.go)
-- [Array](array.go)
-- [Recursion](recursion.go)
+- [Hello World](test/helloworld.go)
+- [Conditional](test/conditional.go)
+- [Loop](test/loop.go)
+- [Array](test/array.go)
+- [Recursion](test/recursion.go)
