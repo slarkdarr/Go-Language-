@@ -1,3 +1,4 @@
+// Program yang menggunakan array
 package main
 
 import "fmt"
