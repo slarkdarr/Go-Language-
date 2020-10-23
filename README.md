@@ -36,3 +36,5 @@ Contoh dari program menggunakan bahasa Go dapat dilihat di sini:
 - [Hello World](helloworld.go)
 - [Conditional](conditional.go)
 - [Loop](loop.go)
+- [Array](array.go)
+- [Recursion](recursion.go)
